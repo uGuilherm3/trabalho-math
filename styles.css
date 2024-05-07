@@ -58,3 +58,9 @@ video{
   width: 150px;
   height: 150px;
 }
+#resultado{
+  margin-top: 15px;
+  flex-wrap: wrap;
+  padding: 15px;
+  text-align: center;
+}
