@@ -23,7 +23,23 @@ var letras = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "
             // 
             "RMD","RME","RMF","RMG","RMH","RMI","RMJ","RMK","RML","RMM","RMN","RMO","RMP","RMQ","RMR","RMS","RMT","RMU","RMV","RMW","RMX","RMY","RMZ","RND","RNE","RNF","RNG","RNH","RNI","RNJ","RNK","RNL","RNM","RNN","RNO","RNP","RNQ","RNR","RNS","RNT","RNU","RNV","RNW","RNX","RNY","RNZ",
             //
-            "RFA","RFB","RFC","RFD","RGA","RGB","RGC","RGD"
+            "RFA","RFB","RFC","RFD","RGA","RGB","RGC","RGD",
+            //
+            "QWR","QWS","QWT","QWU","QWV","QWW","QWX","QWY","QWZ","QXR","QXS","QXT","QXU","QXV","QXW","QXX","QXY","QXZ",
+            //
+            "QUA","QUB","QUC","QUD","QUE","QUF","QUG","QUH","QUI","QUJ","QUK","QUL","QUM","QUN","QUO","QUP","QUQ","QUR","QUS","QUT","QUU","QUV","QUW","QUX","QUY","QUZ",
+            //
+            "QMQ","QMR","QMS","QMT","QMU","QMV","QMW","QMX","QMY","QMZ","QNQ","QNR","QNS","QNT","QNU","QNV","QNW","QNX","QNY","QNZ","QOQ","QOR","QOS","QOT","QOU","QOV","QOW","QOX","QOY","QOZ","QPQ","QPR","QPS","QPT","QPU","QPV","QPW","QPX","QPY","QPZ","QQQ","QQR","QQS","QQT","QQU","QQV","QQW","QQX","QQY","QQZ",
+            //
+            "PUA","PUB","PUC","PUD","PUE","PUF","PUG","PUH","PUI","PUJ","PUK","PUL","PUM","PUN","PUO","PUP","PUQ","PUR","PUS","PUT","PUU","PUV","PUW","PUX","PUY","PUZ","PVA","PVB","PVC","PVD","PVE","PVF","PVG","PVH","PVI","PVJ","PVK","PVL","PVM","PVN","PVO","PVP","PVQ","PVR","PVS","PVT","PVU","PVV","PVW","PVX","PVY","PVZ","PWA","PWB","PWC","PWD","PWE","PWF","PWG","PWH","PWI","PWJ","PWK","PWL","PWM","PWN","PWO","PWP","PWQ","PWR","PWS","PWT","PWU","PWV","PWW","PWX","PWY","PWZ","PXA","PXB","PXC","PXD","PXE","PXF","PXG","PXH","PXI","PXJ","PXK","PXL","PXM","PXN","PXO","PXP","PXQ","PXR","PXS","PXT","PXU","PXV","PXW","PXX","PXY","PXZ","PYA","PYB","PYC","PYD","PYE","PYF","PYG","PYH","PYI","PYJ","PYK","PYL","PYM","PYN","PYO","PYP","PYQ","PYR","PYS","PYT","PYU","PYV","PYW","PYX","PYY","PYZ","PZA","PZB","PZC","PZD","PZE","PZF","PZG","PZH","PZI","PZJ","PZK","PZL","PZM","PZN","PZO","PZP","PZQ","PZR","PZS","PZT","PZU","PZV","PZW","PZX","PZY","PZZ",
+            //
+            "OWH","OWI","OWJ","OWK","OXH","OXI","OXJ","OXK",
+            //
+            "OOV","OOW","OOX","OOY","OOZ","OOA","OOB","OOC","OPV","OPW","OPX","OPY","OPZ","OPA","OPB","OPC","OQV","OQW","OQX","OQY","OQZ","OQA","OQB","OQC","ORV","ORW","ORX","ORY","ORZ","ORA","ORB","ORC",
+            //
+            "OLO","OLP","OLQ","OLR","OLS","OLT","OLU","OLV","OLW","OLX","OLY","OLZ","OLA","OLB","OLC","OLD","OLE","OLF","OLG","OLH","OMO","OMP","OMQ","OMR","OMS","OMT","OMU","OMV","OMW","OMX","OMY","OMZ","OMA","OMB","OMC","OMD","OME","OMF","OMG","OMH",
+            //
+            "NXX","NXY","NXZ","NXA","NXB","NXC","NXD","NXE","NXF","NXG","NYX","NYY","NYZ","NYA","NYB","NYC","NYD","NYE","NYF","NYG",
             //
             
         ];
