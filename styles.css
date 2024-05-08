@@ -26,6 +26,9 @@
     width: 100px !important;
     height: 100px !important;
   }
+  .form{
+    padding: 40px 20px !important;
+  }
 }
 body{
   height: 100vh;
