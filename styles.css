@@ -14,6 +14,19 @@
   font-family: 'Poppins';
   border: none;
 }
+@media only screen and (max-width: 700px) {
+  h1{
+    font-weight: 700;
+    font-size: 25px;
+  }
+  body{
+    font-size: 13px;
+  }
+  video{
+    width: 100px !important;
+    height: 100px !important;
+  }
+}
 body{
   height: 100vh;
   display: flex;
@@ -24,6 +37,9 @@ body{
   background-size: 150%;
   background-image: linear-gradient(45deg ,#EA9CFC,#CCCDFD,#B2EFFD,#c2e2ff);
   animation: anima 15s ease infinite;
+}
+h1{
+  font-weight: 900;
 }
 .form{
   display: flex;

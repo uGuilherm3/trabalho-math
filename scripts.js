@@ -7,12 +7,45 @@ var letras = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "
             "JGP", "JGQ", "JGR", "JGS", "JGT", "JGU", "JGV", "JGW", "JGX", "JGY", "JGZ",
             "JHP", "JHQ", "JHR", "JHS", "JHT", "JHU", "JHV", "JHW", "JHX", "JHY", "JHZ",
             "JIP", "JIQ", "JIR", "JIS", "JIT", "JIU", "JIV", "JIW", "JIX", "JIY", "JIZ",
-            "JKP", "JKQ", "JKR"
+            "JKP", "JKQ", "JKR",
+            //
+            "JDP","JDQ","JDR","JEP","JEQ","JER","JFP","JFQ","JFR","JGP","JGQ","JGR","JHP","JHQ","JHR","JIP","JIQ","JIR","JJP","JJQ","JJR","JKP","JKQ","JKR",
+            //
+            "OVM","OVN","OVO","OVP","OVQ","OVR","OVS","OVT","OVU","OVV",
+            //
+            "REC","RED","REE","REF","REG","REH","REI","REJ","REK","REL","REM","REN","REO","REP","REQ","RER","RES","RET","REU","REV"
         ];
 
         var placasMS = ["NRO", "NRP", "NRS", "NOR", "NOP", "NOS", "NPR", "NPO",
             "NPS", "NSR", "NSO", "NSP", "ORN", "ORP", "ORS", "OPR", "OPN", "OPS", "OSR",
-            "OSP", "ONS", "SRN", "SRO", "SRP", "SON", "SOP", "SOR", "SPN", "SPO", "SPR"
+            "OSP", "ONS", "SRN", "SRO", "SRP", "SON", "SOP", "SOR", "SPN", "SPO", "SPR",
+            //
+            "KAV","KAW","KAX","KAY","KAZ","KAA","KAB","KAC","KBV","KBW","KBX","KBY","KBZ","KBA","KBB","KBC","KCV","KCW","KCX",
+            "KCY","KCZ","KCA","KCB","KCC","KDV","KDW","KDX","KDY","KDZ","KDA","KDB","KDC","KEV","KEW","KEX","KEY","KEZ","KEA",
+            "KEB","KEC","KFV","KFW","KFX","KFY","KFZ","KFA","KFB","KFC",
+            //
+            "NFC","NFD","NFE","NFF","NFG","NFH","NFI","NFJ","NFK","NFL","NFM","NFN","NFO","NFP","NFQ","NFR","NFS","NFT","NFU",
+            "NFV","NFW","NFX","NFY","NFZ","NGC","NGD","NGE","NGF","NGG","NGH","NGI","NGJ","NGK","NGL","NGM","NGN","NGO","NGP",
+            "NGQ","NGR","NGS","NGT","NGU","NGV","NGW","NGX","NGY","NGZ",
+            //
+            "NJA","NJB","NJC","NJD","NJE","NJF","NJG","NJH","NJI","NJJ","NJK","NJL","NJM","NJN","NJO","NJP","NJQ","NJR","NJS",
+            "NJT","NJU","NJX","NJY","NJZ","NKA","NKB","NKC","NKD","NKE","NKF","NKG","NKH","NKI","NKJ","NKK","NKL","NKM","NKN",
+            "NKO","NKP","NKQ","NKR","NKS","NKT","NKU","NKX","NKY","NKZ","NLA","NLB","NLC","NLD","NLE","NLF","NLG","NLH","NLI",
+            "NLJ","NLK","NLL","NLM","NLN","NLO","NLP","NLQ","NLR","NLS","NLT","NLU","NLX","NLY","NLZ",
+            //
+            "NVO","NVP","NVQ","NVR","NWO","NWP","NWQ","NWR",
+            //
+            "OGH","OGI","OGJ","OGK","OGL","OGM","OGN","OGO","OGP","OGQ","OGR","OGS","OGT","OGU","OGV","OGW","OGX","OGY","OGZ","OGA","OHH","OHI","OHJ","OHK","OHL","OHM","OHN","OHO","OHP","OHQ","OHR","OHS","OHT","OHU","OHV","OHW","OHX","OHY","OHZ","OHA",
+            //
+            "OMI","OMJ","OMK","OML","OMM","OMN","OMO","OMP","OMQ","OMR","OMS","OMT","OMU","OMV","OMW","OMX","OMY","OMZ","OMA","OMB","OMC","OMD","OME","OMF","ONI","ONJ","ONK","ONL","ONM","ONN","ONO","ONP","ONQ","ONR","ONS","ONT","ONU","ONV","ONW","ONX","ONY","ONZ","ONA","ONB","ONC","OND","ONE","ONF","OOI","OOJ","OOK","OOL","OOM","OON","OOO","OOP","OOQ","OOR","OOS","OOT","OOU","OOV","OOW","OOX","OOY","OOZ","OOA","OOB","OOC","OOD","OOE","OOF",
+            //
+            "PQA","PQB","PQC","PQD","PQE","PQF","PQG","PQH","PQI","PQJ","PQK","PQL","PQM","PQN","PQO","PQP","PQQ","PQR","PQS","PQT","PQU","PQV","PQW","PQX","PQY","PQZ","PRA","PRB","PRC","PRD","PRE","PRF","PRG","PRH","PRI","PRJ","PRK","PRL","PRM","PRN","PRO","PRP","PRQ","PRR","PRS","PRT","PRU","PRV","PRW","PRX","PRY","PRZ",
+            //
+            "QTN","QTO","QTP","QTQ","QTR","QTS",
+            //
+            "RBK","RBL","RBM","RBN","RCK","RCL","RCM","RCN",
+            //
+            "SBW","SBX","SBY","SBZ","SBA","SBB","SBC","SBD","SBE","SBF","SBG","SBH","SBI","SBJ","SBK","SBL","SBM","SBN","SBO","SBP","SBQ","SBR","SBS","SCW","SCX","SCY","SCZ","SCA","SCB","SCC","SCD","SCE","SCF","SCG","SCH","SCI","SCJ","SCK","SCL","SCM","SCN","SCO","SCP","SCQ","SCR","SCS","SDW","SDX","SDY","SDZ","SDA","SDB","SDC","SDD","SDE","SDF","SDG","SDH","SDI","SDJ","SDK","SDL","SDM","SDN","SDO","SDP","SDQ","SDR","SDS"
         ];
 
         var placasMG = [
@@ -57,11 +90,12 @@ var letras = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "
             var placaGerada = placa.substring(0, 3); // Obtém as três primeiras letras da placa
 
             if (placasDF.includes(placaGerada)) {
+                console.log(placasDF.length + 1);
                 return `A placa ${placa} pertence ao Distrito Federal.`;
             } else if (placasMS.includes(placaGerada)) {
-                return `A placa ${placa} pertence a Mato Grosso do Sul.`;
+                return `A placa ${placa} pertence a Mato Grosso do Sul.${console.log("São "+placasDF.length+1+" de possibilidades.")}`;
             } else if (placasMG.includes(placaGerada)) {
-                return `A placa ${placa} pertence a Minas Gerais.`;
+                return `A placa ${placa} pertence a Minas Gerais.${console.log("São ",+placasDF.length+1, +'de possibilidades.')}`;
             } else {
                 return `A placa ${placa} não pertence a nenhum dos três estados solicitados.`;
             }
